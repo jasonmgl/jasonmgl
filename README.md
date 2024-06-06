@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasonmgl
 - 👀 I’m interested in learning IT.
 - 🌱 I’m currently learning C language.
-- 💞️ I’m looking to collaborate on any interesting project about WEB3.
+- 💞️ I’m looking to collaborate on any interesting project.
 - 📫 How to reach me : Discord : .djeson
 - 😄 Pronouns: He
