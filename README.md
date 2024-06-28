@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
-<h3 align=left> Hi there 👋, my name is Jason </h3>
+<p align=left> Hi there 👋, my name is Jason </p>
 
 <p align=left> a passionate learner from France </p>
 
