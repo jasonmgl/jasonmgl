@@ -6,15 +6,11 @@
 
 <p align=left> I'm currently studying computer science at Ecole 42 in Lyon, with a view to obtaining the maximum diploma in systems administration. </p>
 
-</br>
-
 <h3 align=left> Skills: C / C++ / Git </h3>
 
 - 🌱 I’m currently learning C++ 
 - 🔭 I’m looking to collaborate on open source projects 
 - 📫 How to reach me: jmougel@student.42lyon.fr 
-
-</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,12 +18,9 @@
 <a href="https://discord.gg/Djeson#3432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Djeson#3432" height="30" width="40" /></a>
 </p>
 
-</br>
-
 <h3 align="left">Languages and Tools:</h3>
-![My Skills](https://skillicons.dev/icons?i=c,cpp,git,linux,bash)](https://skillicons.dev)
 
-</br>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
