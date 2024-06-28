@@ -4,6 +4,8 @@
 
 <p align=left> a passionate learner from France </p>
 
+![](https://gifsec.com/wp-content/uploads/2022/11/chill-anime-gif-25.gif)
+
 <p align=left> I'm currently studying computer science at Ecole 42 in Lyon, with a view to obtaining the maximum diploma in systems administration. </p>
 
 - 🌱 I’m currently learning C++ 
