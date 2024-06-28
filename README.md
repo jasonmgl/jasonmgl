@@ -23,9 +23,6 @@
 <h3 align="left">Languages and Tools:</h3>
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,git,linux,bash)](https://skillicons.dev)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonmgl&label=Profile%20views&color=0e75b6&style=flat" alt="jasonmgl" /> </p>
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -36,3 +33,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmgl&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonmgl&label=Profile%20views&color=0e75b6&style=flat" alt="jasonmgl" /> </p>
