@@ -6,6 +6,8 @@
 
 <p align=left> I'm currently studying computer science at Ecole 42 in Lyon, with a view to obtaining the maximum diploma in systems administration. </p>
 
+</br>
+
 <h3 align=left> Skills: C / C++ / Git </h3>
 
 - 🌱 I’m currently learning C++ 
@@ -20,7 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,linux&theme=light)](https://skillicons.dev)
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
