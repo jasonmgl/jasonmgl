@@ -2,7 +2,7 @@
 
 </br>
 
-<h3 align=left> Hi there 👋, my name is Jason </h3>
+<h4 align=left> Hi there 👋, my name is Jason </h4>
 
 <p align=left> a passionate learner from France </p>
 
