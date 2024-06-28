@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile)](https://git.io/typing-svg)
-<h1 align=center> ### Hi there 👋, my name is Jason <h1/>
+<h1 align=center> ### Hi there 👋, my name is Jason </h1>
 #### a passionate learner from France
 ![a passionate learner from France](https://cdn.pfps.gg/banners/1648-goku-aesthetic.gif)
 
