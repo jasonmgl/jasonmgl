@@ -8,13 +8,11 @@
 
 <p align=left> I'm currently studying computer science at Ecole 42 in Lyon, with a view to obtaining the maximum diploma in systems administration. </p>
 
-</br>
-
-<h3 align=left> Skills: C / C++ / Git </h3>
-
 - 🌱 I’m currently learning C++ 
 - 🔭 I’m looking to collaborate on open source projects 
-- 📫 How to reach me: jmougel@student.42lyon.fr 
+- 📫 How to reach me: jmougel@student.42lyon.fr
+
+</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
