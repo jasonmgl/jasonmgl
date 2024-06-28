@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,linux,bash&theme=light)](https://skillicons.dev)
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
