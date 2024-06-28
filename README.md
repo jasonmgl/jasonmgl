@@ -15,4 +15,4 @@ Skills: C / C++ / Git
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/jasonmgl/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jason-m-19ab68285//)
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=jason-m-19ab68285&left_color=green&right_color=red)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=jason-m-19ab68285.jasonmgl&left_color=green&right_color=red)
