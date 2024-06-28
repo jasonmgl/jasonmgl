@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+
 Hi there 👋, my name is Jason
+
 a passionate learner from France
 
 I'm currently a computer science student at Ecole 42 in Lyon, aiming for the maximum diploma in system administration.
