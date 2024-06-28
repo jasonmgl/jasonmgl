@@ -1,12 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
-Hi there 👋, my name is Jason
+<h2 align=left> Hi there 👋, </h2>
+  
+<h3 align=left> my name is Jason </h3>
 
-a passionate learner from France
+<p align=left> a passionate learner from France </p>
 
-I'm currently studying computer science at Ecole 42 in Lyon, with a view to obtaining the maximum diploma in systems administration.
+<p align=left> I'm currently studying computer science at Ecole 42 in Lyon, with a view to obtaining the maximum diploma in systems administration. </p>
 
-Skills: C / C++ / Git
+<h3 align=left> Skills: C / C++ / Git </h3>
 
 - 🌱 I’m currently learning C++ 
 - 👯 I’m looking to collaborate on open source projects 
