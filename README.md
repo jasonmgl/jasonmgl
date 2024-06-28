@@ -4,7 +4,7 @@ Hi there 👋, my name is Jason
 
 a passionate learner from France
 
-I'm currently a computer science student at Ecole 42 in Lyon, aiming for the maximum diploma in system administration.
+I'm currently studying computer science at Ecole 42 in Lyon, with a view to obtaining the maximum diploma in systems administration.
 
 Skills: C / C++ / Git
 
