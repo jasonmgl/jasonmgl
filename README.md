@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
+![GIF](https://gifsec.com/wp-content/uploads/2022/11/chill-anime-gif-25.gif)
+
 <h4 align=left> Hi there 👋, my name is Jason </h4>
 
 <p align=left> a passionate learner from France </p>
-
-![](https://gifsec.com/wp-content/uploads/2022/11/chill-anime-gif-25.gif)
 
 <p align=left> I'm currently studying computer science at Ecole 42 in Lyon, with a view to obtaining the maximum diploma in systems administration. </p>
 
