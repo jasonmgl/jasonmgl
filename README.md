@@ -2,7 +2,7 @@
 
 ![GIF](https://gifsec.com/wp-content/uploads/2022/11/chill-anime-gif-25.gif)
 
-<h4 align=left> Hi there 👋, my name is Jason </h4>
+<h3 align=left> Hi there 👋, my name is Jason </h3>
 
 <p align=left> a passionate learner from France </p>
 
