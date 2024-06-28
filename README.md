@@ -1,6 +1,4 @@
-<image align=center>[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile)](https://git.io/typing-svg)</image>
-
-</br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
 <h4 align=left> Hi there 👋, my name is Jason </h4>
 
@@ -22,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,linux,bash&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,linux,bash,arduino&theme=light)](https://skillicons.dev)
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
