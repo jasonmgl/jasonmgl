@@ -21,7 +21,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,linux,bash)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,git,linux,bash)](https://skillicons.dev)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonmgl&label=Profile%20views&color=0e75b6&style=flat" alt="jasonmgl" /> </p>
