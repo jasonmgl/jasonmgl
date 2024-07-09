@@ -6,7 +6,7 @@
 
 </br>
 
-<p align=left> I'm currently studying computer science at Ecole 42 in Lyon, with a view to obtaining the maximum diploma in systems administration. </p>
+<p align=left> I'm currently studying computer science at Ecole 42 in Lyon. </p>
 
 - 🌱 I’m currently learning C++ 
 - 🔭 I’m looking to collaborate on open source projects 
