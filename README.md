@@ -13,7 +13,9 @@
 - 📫 How to reach me: jmougel@student.42lyon.fr
 
 </br>
+
 [![jmougel's 42 stats](https://badge.mediaplus.ma/darkblue/jmougel?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 </br>
 
 <h3 align="left">Connect with me:</h3>
