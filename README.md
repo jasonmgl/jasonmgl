@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+
 <h3 align=left> Hi there 👋, my name is Jason </h3>
 
 <p align=left> a passionate learner from France </p>
@@ -11,11 +12,7 @@
 - 🔭 I’m looking to collaborate on open source projects 
 - 📫 How to reach me: jmougel@student.42lyon.fr
 
-</br>
-
 [![jmougel's 42 stats](https://badge.mediaplus.ma/darkblue/jmougel?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
-</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
