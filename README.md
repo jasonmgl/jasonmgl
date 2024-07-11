@@ -1,10 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
-</br>
-
 [![jmougel's 42 stats](https://badge.mediaplus.ma/darkblue/jmougel?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
-</br>
 
 <h3 align=left> Hi there 👋, my name is Jason </h3>
 
