@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
-[![jmougel's 42 stats](https://badge.mediaplus.ma/darkblue/jmougel?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,git,linux,bash,arduino&theme=light)](https://skillicons.dev)
