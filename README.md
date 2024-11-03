@@ -1,17 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
-<h3 align=left> Hi there 👋, my name is Jason </h3>
-
-<p align=left> a passionate learner from France </p>
-
-<p align=left> I'm currently studying computer science at Ecole 42 in Lyon. </p>
-
-- 🌱 I’m currently learning C++ 
-- 🔭 I’m looking to collaborate on open source projects 
-- 📫 How to reach me: jmougel@student.42lyon.fr
-
-</br>
-
 [![jmougel's 42 stats](https://badge.mediaplus.ma/darkblue/jmougel?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 <h3 align="left">Languages and Tools:</h3>
