@@ -3,7 +3,7 @@ From 42 Lyon.
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash, docker&theme=light)](https://skillicons.dev)
 
 ### Connect with me:
 <p align="left">
