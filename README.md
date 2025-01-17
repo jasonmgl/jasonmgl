@@ -3,7 +3,7 @@
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,linux,python,bash,rasppie&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash&theme=light)](https://skillicons.dev)
 
 ### Connect with me:
 <p align="left">
