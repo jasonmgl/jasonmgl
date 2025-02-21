@@ -11,7 +11,7 @@ I'm currently studying IT at 42 Lyon school.<br>Open to work and face new challe
 ### Services:
 ![Nginx](https://img.shields.io/badge/nginx-3fa0bc?style=flat&logo=nginx&logoColor=white&logoSize=auto) ![Git](https://img.shields.io/badge/git-3fa0bc?style=flat&logo=git&logoColor=white&logoSize=auto) ![Docker](https://img.shields.io/badge/docker-3fa0bc?style=flat&logo=docker&logoColor=white&logoSize=auto)
 ### Hardwares:
-![Arduino](https://img.shields.io/badge/-Arduino-3fa0bc?style=flat&logo=Arduino&logoColor=white&logoSize=auto) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-3fa0bc?style=flat&logo=Raspberry-Pi&logoSize=auto)
+![Linux](https://img.shields.io/badge/-Linux-3fa0bc?style=flat&logo=linux&logoSize=auto)![Arduino](https://img.shields.io/badge/-Arduino-3fa0bc?style=flat&logo=Arduino&logoColor=white&logoSize=auto) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-3fa0bc?style=flat&logo=Raspberry-Pi&logoSize=auto)
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jasonmgl&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmgl&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
