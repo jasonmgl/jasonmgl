@@ -6,8 +6,10 @@ I'm currently studying IT at 42 Lyon school.<br>Open to work and face new challe
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.jdeson) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jasonmgl03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jason-m-19ab68285) 
 
 ## 💻 Tech Stack:
-### Language / Framework:
-![C](https://img.shields.io/badge/c-3fa0bc?style=flat&logo=c&logoColor=white&logoSize=auto) ![C++](https://img.shields.io/badge/c++-3fa0bc?style=flat&logo=c%2B%2B&logoColor=white&logoSize=auto) ![Typescript](https://img.shields.io/badge/typescript-3fa0bc?style=flat&logo=tsnode&logoColor=white&logoSize=auto) ![Node.js](https://img.shields.io/badge/node.js-3fa0bc?style=flat&logo=nodedotjs&logoColor=white&logoSize=auto) ![Bash Script](https://img.shields.io/badge/bash_script-3fa0bc?style=flat&logo=gnu-bash&logoColor=white&logoSize=auto)
+### Language:
+![C](https://img.shields.io/badge/c-3fa0bc?style=flat&logo=c&logoColor=white&logoSize=auto) ![C++](https://img.shields.io/badge/c++-3fa0bc?style=flat&logo=c%2B%2B&logoColor=white&logoSize=auto) ![Typescript](https://img.shields.io/badge/typescript-3fa0bc?style=flat&logo=tsnode&logoColor=white&logoSize=auto) ![Node.js](https://img.shields.io/badge/node.js-3fa0bc?style=flat&logo=nodedotjs&logoColor=white&logoSize=auto) ![Bash Script](https://img.shields.io/badge/bash_script-3fa0bc?style=flat&logo=gnu-bash&logoColor=white&logoSize=auto) ![Php](https://img.shields.io/badge/php-3fa0bc?style=flat&logo=nodedotjs&logoColor=white&logoSize=auto)
+### Framework:
+![Fastify](https://img.shields.io/badge/fastify-3fa0bc?style=flat&logo=fastify&logoColor=white&logoSize=auto) ![Laravel](https://img.shields.io/badge/laravel-3fa0bc?style=flat&logo=laravel&logoColor=white&logoSize=auto)
 ### Services:
 ![Nginx](https://img.shields.io/badge/nginx-3fa0bc?style=flat&logo=nginx&logoColor=white&logoSize=auto) ![Git](https://img.shields.io/badge/git-3fa0bc?style=flat&logo=git&logoColor=white&logoSize=auto) ![Docker](https://img.shields.io/badge/docker-3fa0bc?style=flat&logo=docker&logoColor=white&logoSize=auto)
 ### Hardwares:
