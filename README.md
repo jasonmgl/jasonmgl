@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently studying IT at 42 School Lyon.<br>Future DevOPS/Cloud Engineer.<br>
+Studying IT at 42 School Lyon.<br>Future DevOPS/Cloud Engineer.<br>
 
 
 ## 🌐 Socials:
