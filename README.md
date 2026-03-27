@@ -1,8 +1,5 @@
 # JASON MOUGEL
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jasonmgl03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jason-m-19ab68285) 
-
 ## 💻 Tech Stack:
 ### Language:
 ![C](https://img.shields.io/badge/c-3fa0bc?style=flat&logo=c&logoColor=white&logoSize=auto) ![C++](https://img.shields.io/badge/c++-3fa0bc?style=flat&logo=c%2B%2B&logoColor=white&logoSize=auto) ![Typescript](https://img.shields.io/badge/typescript-3fa0bc?style=flat&logo=tsnode&logoColor=white&logoSize=auto) ![Javascript](https://img.shields.io/badge/javascript-3fa0bc?style=flat&logo=javascript&logoColor=white&logoSize=auto) ![Node.js](https://img.shields.io/badge/node.js-3fa0bc?style=flat&logo=nodedotjs&logoColor=white&logoSize=auto) ![Bash Script](https://img.shields.io/badge/bash_script-3fa0bc?style=flat&logo=gnu-bash&logoColor=white&logoSize=auto) ![Php](https://img.shields.io/badge/php-3fa0bc?style=flat&logo=php&logoColor=white&logoSize=auto)
@@ -12,3 +9,5 @@
 ![Nginx](https://img.shields.io/badge/nginx-3fa0bc?style=flat&logo=nginx&logoColor=white&logoSize=auto) ![Git](https://img.shields.io/badge/git-3fa0bc?style=flat&logo=git&logoColor=white&logoSize=auto) ![Docker](https://img.shields.io/badge/docker-3fa0bc?style=flat&logo=docker&logoColor=white&logoSize=auto)
 ### Hardwares:
 ![Linux](https://img.shields.io/badge/Linux-3fa0bc?style=flat&logo=linux&logoColor=white&logoSize=auto) ![Arduino](https://img.shields.io/badge/Arduino-3fa0bc?style=flat&logo=Arduino&logoColor=white&logoSize=auto) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-3fa0bc?style=flat&logo=Raspberry-Pi&logoColor=white&logoSize=auto)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jason-m-19ab68285) 
