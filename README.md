@@ -21,7 +21,6 @@
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
 # 📊 GitHub Stats:
-
 <div style="display:flex;justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=jasonmgl&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="195px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmgl&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="195px"/>
@@ -32,7 +31,6 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jmougel@student.42lyon.fr) 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jasonmgl&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![C++](https://github.com//WaRtr0/WaRtr0/raw/assets/Finish.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
