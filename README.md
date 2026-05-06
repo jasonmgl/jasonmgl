@@ -1,8 +1,8 @@
 # Jason MOUGEL
 ## About:
-• Studying IT at 42 School Lyon 
+• Studying IT at 42 School Lyon
 <br/>
-• Future DevOPS/Cloud Engineer<br>
+• Future DevOps Cloud
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
