@@ -20,12 +20,6 @@
 ![Helm](https://img.shields.io/badge/helm-%23326ce5.svg?style=for-the-badge&logo=helm&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
-# 📊 GitHub Stats:
-<div style="display:flex;justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasonmgl&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="195px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmgl&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="195px"/>
-</div>
-
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jason-mougel)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jmougel@student.42lyon.fr) 
