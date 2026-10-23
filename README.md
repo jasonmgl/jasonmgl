@@ -10,7 +10,7 @@
 </div>
 <br/>
 <!-- ===== TECH STACK ===== -->
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 <br/>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,php,ts,js,python,bash&theme=dark" alt="Languages"/>
@@ -18,25 +18,8 @@
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,aws,nginx,githubactions,linux,git&theme=dark" alt="DevOps"/>
 </div>
 <br/>
-<!-- ===== PROJECTS ===== -->
-## 🚀 Featured Projects
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/jasonmgl/NOM_REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmgl&repo=NOM_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE" alt="NOM_REPO_1"/></a>
-<a href="https://github.com/jasonmgl/NOM_REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmgl&repo=NOM_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE" alt="NOM_REPO_2"/></a>
-
-<br/>
-
-<a href="https://github.com/jasonmgl/NOM_REPO_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmgl&repo=NOM_REPO_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE" alt="NOM_REPO_3"/></a>
-<a href="https://github.com/jasonmgl/NOM_REPO_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmgl&repo=NOM_REPO_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE" alt="NOM_REPO_4"/></a>
-
-</div>
-
-<br/>
 <!-- ===== GITHUB STATS ===== -->
-## 📊 GitHub Stats
+📊 GitHub Stats
 <br/>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jasonmgl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE&count_private=true&include_all_commits=true" height="170" alt="GitHub stats"/> 
