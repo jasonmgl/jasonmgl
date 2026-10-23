@@ -6,7 +6,6 @@
 <a href="https://linkedin.com/in/jason-mougel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href="mailto:jmougel@student.42lyon.fr"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 <a href="https://profile.intra.42.fr/users/jmougel"><img src="https://img.shields.io/badge/42_Lyon-000000?style=for-the-badge&logo=42&logoColor=white"/></a> 
-<img src="https://komarev.com/ghpvc/?username=jasonmgl&style=for-the-badge&color=38BDAE&label=Profile+views"/>
 </div>
 <br/>
 <!-- ===== TECH STACK ===== -->
