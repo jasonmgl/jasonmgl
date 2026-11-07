@@ -17,16 +17,6 @@
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,aws,nginx,githubactions,linux,git&theme=dark" alt="DevOps"/>
 </div>
 <br/>
-<!-- ===== GITHUB STATS ===== -->
-📊 GitHub Stats
-<br/>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jasonmgl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE&count_private=true&include_all_commits=true" height="170" alt="GitHub stats"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmgl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&langs_count=8" height="170" alt="Top languages"/>
-<br/><br/>
-<img src="https://streak-stats.demolab.com?user=jasonmgl&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDAE&fire=38BDAE&currStreakLabel=38BDAE" alt="GitHub streak"/>
-</div>
-<br/>
 <!-- ===== FOOTER ===== -->
 <div align="center">
 Let's build something robust together.
